@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 📦   Crop Recommendation system 
 ```
-⬆️ (Replace above with your app's name)
+This a crop recommendation system
 ```
 
 Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://crop_recommendation.streamlit.app/)
 
 ## GitHub Codespaces
 
